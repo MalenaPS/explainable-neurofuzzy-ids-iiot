@@ -1,2 +1,3 @@
-# explainable-neurofuzzy-ids-iiot
-Explainable ANFIS-based IDS for IIoT.
+# Explainable Neuro-Fuzzy IDS for IIoT (ANFIS-IDS)
+
+Code, models, artifacts are available in this repository.
