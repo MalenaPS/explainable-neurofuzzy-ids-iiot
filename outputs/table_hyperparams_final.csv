@@ -1,0 +1,9 @@
+Parameter,Value,Selected
+Focal Loss α,"[np.float32(0.25), np.float32(0.75)]",Sí
+Focal Loss γ,1.5,Sí
+OneCycle LR_max,0.003,Sí
+OneCycle pct_start,0.3,Sí
+L1 λ,5e-05,Sí
+# MF per variable,10,Sí
+Pruning Threshold,0.001,Sí
+Pruning Epochs,"[15, 25]",Sí
